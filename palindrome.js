@@ -8,5 +8,5 @@ console.log(rev);
 if(name == rev){
 console.log("yes")}
 else{
- console.log("yes")
+ console.log("no")
 }

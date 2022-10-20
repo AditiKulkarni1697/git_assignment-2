@@ -5,7 +5,7 @@ if(num%i == 0){
 factor++
 }
 }
-if(factor !== 2){
+if(factor == 2){
 console.log("yes')}
 else{
 console.log("no")
